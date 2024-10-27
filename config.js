@@ -1,11 +1,11 @@
 const config = {
   bot: {
     name: "Shinoa Hiragi",
-    number: "6285864809039"
+    number: "6285215527536"
   },
   owner: {
     name: "xfar",
-    number: ["6285864809039@s.whatsapp.net"],
+    number: ["6285216955233@s.whatsapp.net"],
   },
   session: "./src/session",
   self: true,
